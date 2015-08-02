@@ -1,0 +1,27 @@
+
+@import url(https://fonts.googleapis.com/css?family=Merriweather+Sans|Vesper+Libre|Bigshot+One);
+.text{
+  font-family: 'Merriweather Sans', sans-serif;
+  color:#090B0B;
+  text-align:center;
+  padding-left:25px;
+    padding-right:25px;
+}
+.list {
+  display:block;
+  margin:auto;
+    color: #1A374E;
+    text-align:center;
+font-size: 10px;
+}
+.back{
+  background-color:#CFD0EA;
+}
+#header{
+  font-size:35px;
+font-family: 'Bigshot One', cursive;
+  text-align:center
+}
+.btn{
+  background-color:#56A0B3;
+}
